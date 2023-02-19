@@ -2,40 +2,42 @@
 
 Leetcode coding problems solved in Python.
 
-## Week 1--
-
+<details>
+  <summary><h2>Week 1</h2></summary>
 1. Two Sum
-Easy
+(Easy)
 
 2. Valid Parentheses
-Easy
+(Easy)
 
 3. Merge Two Sorted Lists
-Easy
+(Easy)
 
 4. Best Time to Buy and Sell Stock
-Easy
+(Easy)
 
 5. Valid Palindrome
-Easy
+(Easy)
 
 6. Invert Binary Tree
-Easy
+(Easy)
 
 7. Valid Anagram
-Easy
+(Easy)
 
 8. Binary Search
-Easy
+(Easy)
 
 9. Flood Fill
-Easy
+(Easy)
 
 10. Lowest Common Ancestor of a Binary Search Tree
-Easy
+(Easy)
 
 11. Balanced Binary Tree
-Easy
+(Easy)
 
 12. Linked List Cycle
-Easy
+(Easy)
+  
+</details>
