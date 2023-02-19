@@ -78,3 +78,33 @@ Leetcode coding problems solved in python ordered by difficulty.
 (Easy)
 
 </details>  
+
+<details>
+  <summary><h2>Week 3</h2></summary>
+
+1. Maximum Depth of Binary Tree
+(Easy)
+
+2. Contains Duplicate
+(Easy)
+
+3. Roman to Integer
+(Easy)
+
+4. Maximum Subarray
+(Medium)
+
+5. Meeting Rooms
+(Medium)
+
+6. Insert Interval
+(Medium)
+
+7. 01 Matrix
+(Medium)
+
+8. K CLosest Points to Origin
+(Medium)
+
+9. Longest Substring Without Repeating Characters
+(Medium)
